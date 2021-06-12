@@ -1,8 +1,13 @@
 [package]
+edition = "2018"
 name = "clone"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
+keywords = ["cli", "git", "clone", "workspace"]
+categories = ["command-line-utilities"]
+homepage = "https://github.com/signed/clone"
+repository = "https://github.com/signed/clone"
 authors = ["Thomas Heilbronner <thomas.heilbronner@gmail.com>"]
-edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
